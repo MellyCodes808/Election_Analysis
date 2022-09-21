@@ -25,5 +25,7 @@ Arapahoe: 6.7% (24,801)
  
 Largest County Turnout: Denver
 
+_____________
+
 Election-Audit Summary
 Here I only supplied a few key metrics for the election analysis but with slight modifications this code could be used for other elections and even to collect new metrics such as breakdowns by candidate by precinct or the correlation between democratic and republican voting % by preciinct
